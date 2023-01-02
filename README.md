@@ -1,3 +1,20 @@
+Detalles del proyecto
+
+Laravel 8 <br>
+PHP 7.4.25 <br>
+Node 16.13 <br>
+
+Ejecutar 
+
+composer install <br>
+npm install  <br>
+npm run dev <br>
+<br><br>
+agregar en el .env
+<br>
+MERCADO_PAGO_PUBLIC_KEY=xxxxxxxxxxxxxxxxxx<br>
+MERCADO_PAGO_ACCESS_TOKEN=xxxxxxxxxxxxxxxxxxxxxxx<br><br>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
